@@ -62,6 +62,6 @@ module.exports = function printInventory(inputs) {
     }
     result += ending;
 
-    console.log(result);m
+    console.log(result);
     return result;
 };
